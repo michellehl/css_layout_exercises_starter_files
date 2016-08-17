@@ -1,0 +1,48 @@
+main {
+	padding: 30px;
+	/*800px wide and centered on page
+	bottom half is 300px high and the top half 200px
+	top half first box is green 50% or 400 px wide and the second box
+	is blue 50% three boxs on the bottom gray black orange at 33.33%*/
+	font-size: 0;
+}
+.box {
+	height: 500px;
+	width: 800px;
+	display: inline-block;
+	display: center;
+
+}
+.box-one {
+	background-color: green;
+	height: 200px;
+	width: 50%;
+	border: 1px solid black;
+
+}
+.box-two {
+	background-color: blue;
+	height: 200px;
+	width: 50%;
+	border: 1px solid black;
+
+}
+.box-three {
+	background-color: gray;
+	height: 300px;
+	width: 33.33%;
+    border: 1px solid black;
+}
+.box-four {
+	background-color: black;
+	height: 300px;
+	width: 33.33%;
+	border: 1px solid black;
+
+}
+.box-five {
+	background-color: orange;
+	height: 300px;
+	width: 33.33%;
+	border: 1px solid black;
+}
