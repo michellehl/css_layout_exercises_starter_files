@@ -10,3 +10,14 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.container {
+	padding-left: 90px;
+}
+.left {
+	float: left;
+	
+}
+.right {
+	float: right;
+
+}
